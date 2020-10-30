@@ -1,0 +1,26 @@
+{
+    "name": "jsdoc-plugin-typescript-new",
+    "version": "1.0.0",
+    "description": "Converts TypeScript 'new' types to JSDoc compatible 'instanceOf'.",
+    "author": "Christopher Eaton <chriseaton@live.com>",
+    "license": "UNLICENSED",
+    "homepage": "https://github.com/chriseaton/jsdoc-plugin-typescript-new#readme",
+    "main": "plugin.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chriseaton/jsdoc-plugin-typescript-new.git"
+    },
+    "keywords": [
+        "jsdoc",
+        "plugin",
+        "typescript",
+        "new",
+        "typedef"
+    ],
+    "bugs": {
+        "url": "https://github.com/chriseaton/jsdoc-plugin-typescript-new/issues"
+    },
+    "devDependencies": {
+        "eslint": "^7.12.1"
+    }
+}
