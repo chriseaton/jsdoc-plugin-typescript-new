@@ -1,4 +1,8 @@
-[![NPM](https://nodei.co/npm/jsdoc-plugin-typescript-new.png)](https://npmjs.org/package/jsdoc-plugin-typescript-new)
+[![NPM](https://img.shields.io/npm/v/jsdoc-plugin-typescript-new)](https://npmjs.org/package/jsdoc-plugin-typescript-new)
+
+> [!TIP]
+> **Why hasn't this repo been updated in X months or years?!**    
+> A: Because it has no dependencies, and it still works.
 
 # JSDoc TypeScript New Plugin
 Converts TypeScript "new" method types (`new()`, `new() => X`) to a JSDoc-compatible `instanceOf(X)` type.
